@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="screenshot.png" width="700" alt="Nebula Calculator">
+</div>
 Nebula Calculator
 
 A simple and modern calculator built using vanilla HTML, CSS and JavaScript.
